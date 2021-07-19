@@ -1,4 +1,4 @@
-## Hi Swarup here 👋
+## 👋 Hi Swarup here 😄
 I am **self-taught** developer who loves to contribute to **open source** and a **designer** not by profession but by **passion**
 
 
