@@ -6,7 +6,7 @@ I am a **self-taught** developer who loves to contribute to **open source** and 
 
 <!-- ![My_top_Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swarup4741&hide_border=true&theme=tokyonight&layout=compact) -->
 
-## 🧰 Tech Tools:
+## 🧰 Tech Tools
 <div style="display: flex; align-items: center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Javascript" height="40" style="vertical-align:top; margin:2px"></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://miro.medium.com/max/816/1*TpbxEQy4ckB-g31PwUQPlg.png" alt="Typescript" height="40" style="vertical-align:top; margin:2px"></a>
