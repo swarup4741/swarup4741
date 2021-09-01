@@ -1,6 +1,4 @@
 ## 👋 Hi Swarup here 😄
-I am a **self-taught** developer who loves to contribute to **open source** and a **designer** not by profession but by **passion**
-
 
 ![My_stats](https://github-readme-stats.vercel.app/api?username=swarup4741&hide_border=true&hide=stars&show_icons=true&theme=tokyonight)
   
